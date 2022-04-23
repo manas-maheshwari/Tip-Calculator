@@ -29,7 +29,7 @@ A video walkthrough of implemented user stories is in transit:
 
 ## Notes
 
-This was funn!!
+This was fun!!
 
 ## License
 
